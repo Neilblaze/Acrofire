@@ -1,2 +1,2 @@
-# Acrofire
-Unleash the power of Acrofire to share your files instantly! ⚡ 
+# Aeroshare
+Unleash the power of Aeroshare to share your files instantly! ⚡ 
